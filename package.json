@@ -1,0 +1,26 @@
+{
+  "name": "webdeneme",
+  "version": "1.0.0",
+  "description": "sunucu tabanlı ders uygulaması",
+  "main": "app.js",
+  "scripts": {
+    "devStart": "nodemon app.js"
+  },
+  "author": "mertcan koc",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mertcaankc/webdeneme.git"
+  },
+  "keywords": [
+    "web",
+    "uygulama"
+  ],
+  "bugs": {
+    "url": "https://github.com/mertcaankc/webdeneme/issues"
+  },
+  "homepage": "https://github.com/mertcaankc/webdeneme#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
